@@ -53,7 +53,6 @@
         <div>Proudly using <a href="http://www.google.com/recaptcha" target="_blank">Google ReCAPTCHA</a></div>
     </div>
 
-
     <script type="text/javascript"
             src="http://www.google.com/recaptcha/api/challenge?k=your_public_key">
     </script>
