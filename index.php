@@ -54,10 +54,10 @@
     </div>
 
     <script type="text/javascript"
-            src="http://www.google.com/recaptcha/api/challenge?k=6LfbW9MSAAAAAPrrMaQPGxnoB2Ww_U-r4CAdohaL">
+            src="http://www.google.com/recaptcha/api/challenge?k=your_public_key">
     </script>
     <noscript>
-        <iframe src="http://www.google.com/recaptcha/api/noscript?k=6LfbW9MSAAAAAPrrMaQPGxnoB2Ww_U-r4CAdohaL"
+        <iframe src="http://www.google.com/recaptcha/api/noscript?k=your_public_key"
                 height="300" width="500" frameborder="0"></iframe><br>
         <textarea name="recaptcha_challenge_field" rows="3" cols="40">
         </textarea>
